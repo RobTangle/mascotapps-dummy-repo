@@ -15,3 +15,8 @@ function toSalute(arg) {
   console.log("I'm saluting!");
   return arg;
 }
+
+function sayHello() {
+  console.log("I'm saying Hello!");
+  return "Hello!!!!";
+}
